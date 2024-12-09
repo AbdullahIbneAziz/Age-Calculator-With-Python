@@ -29,6 +29,9 @@ A modern and user-friendly desktop application built with PyQt5 that calculates 
 3. Run the application:
     python AgeCalculation.py
 
+![Screenshot_15](https://github.com/user-attachments/assets/2bec58a7-4b0e-4aac-ba32-91b5ff62f6e8)
+
+
 ## Usage
 
 1. Select a birthdate from the calendar widget.
